@@ -1,0 +1,26 @@
+body {
+  background-color: #e3ebff;
+}
+
+.izquierda {
+  text-align: left;
+}
+
+.centro {
+  text-align: center;
+  border-style: solid;
+  border-color: #051478;
+  border-width: medium;
+}
+
+.derecha {
+  text-align: right;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.subtitulo {
+  padding-left: 20%;
+}
